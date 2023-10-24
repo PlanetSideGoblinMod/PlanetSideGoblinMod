@@ -2,6 +2,8 @@
 #### General Networking, Rendering, and Physics Framework for Unsharded 10,000+ Interacting MMOFPS Players
 <hr>
 
+[![](./206376334.png)](https://www.youtube.com/watch?v=rTbKslUxKVU)
+
 This project started as a feasibility study for a PlanetSide 3 for 10,000 concurrent players, for the sake of a Goblin Tribe April Fools' video (with a FrogMike related punchline).
 
 We ended up implementing an entire Networking + Rendering + Physics framework as a general solution for 10,000+ MMOFPS games with no sharding.
