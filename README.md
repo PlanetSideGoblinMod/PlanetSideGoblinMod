@@ -33,3 +33,11 @@ This repository was made private following completion of major Alpha milestones 
 Major Alpha milestones do not include a fun, playable game. The remaining tasks are not nearly as complex as the major milestones, but they are nonetheless time-intensive such as movement/physics tests, network tests, usability tests, and most important of all, fun tests.
 
 Alpha Release is planned to test the worst-case game mode called Goblin Mode, which is the minimum "playable" physics for 10,000 unsharded concurrent players with a maximum 10Gbps server upload bandwidth. Goblin Mode as a default game mode is meant to attract and keep the highest amount of players possible. Since Goblin Tribe is a competitive gaming clan, there will be an alternate, competitive game mode with options for CS2-style "subticks" among other detailed customizations.
+
+#### Acknowledgements and Dedication
+
+This project is dedicated to Goblin Tribe including GOB competitive and ex-members, the PlanetSide staff who made this scale of MMOFPS possible, and all of our friends in the PlanetSide 2 community. This project is also meant to especially thank FrogMike, Therum, and Beefy.
+
+This project would not have begun if SadRobot didn't oblige in participating in our "How Would We Design PlanetSide 3 If We Programmed In Goblin Mode?" seemingly-schizophrenic brainstorming sessions to come up with an "unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations" worst-case solution called the Goblin Mode (meme) Architecture. Special thanks to Khorror's cracked 3D modeling skills. Much gratitude for Riesz, Encoder, and FatherTime for voices. Thanks to everyone who encouraged, supported, adviced, tested, and critically examined the project: TJ, Blaxxen, Sobek, Khorror, SadRobot, Riesz, Encoder, LostArrow (Marauder), Atlia, PotatoBoiler, Chicken, Bazuki, NP_Eazy, BerkleianMegatrends, Spjalle, and GoblinRum. Infinite thanks to Goblin Tribe, especially FrogMike and Sobek, for letting the world witness one of the greatest underdog stories in history. Thanks to the Berkeley EECS community of cracked engineers for technical consultations, moral encouragement, and for offering the CSUA Minifridge for server hosting (lol).
+
+Thanks for the patience rly sry about the delays lmao also fuku Calskey
