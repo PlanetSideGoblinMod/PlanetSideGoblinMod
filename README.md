@@ -4,7 +4,7 @@
 
 #### News
 
-October 24, 2023: Alpha release delayed as we focus on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 10,000 high-poly models. Mind-blowing stuff. The original rasterization prototype schedule still runs in parallel for use in testing.
+October 24, 2023: Alpha release delayed as we focus on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 6 million Stanford dragons. Mind-blowing stuff. The original rasterization prototype schedule still runs in parallel for use in testing.
 
 #### Introduction
 
