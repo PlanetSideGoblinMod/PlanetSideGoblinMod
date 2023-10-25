@@ -6,6 +6,8 @@
 
 October 24, 2023: Alpha release delayed as we focus on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 6 million Stanford dragons. Mind-blowing stuff. The original rasterization prototype schedule still runs in parallel for use in testing.
 
+August 24, 2023: Major Alpha milestones completed! This repository is made private following completion of major Alpha milestones to protect Alpha release and is planned to be made fully open source again on Beta. Weekly builds under https://github.com/PlanetSideGoblinMod/GoblinModeDemo/tags are removed.
+
 #### Introduction
 
 [![](./206376334.png)](https://www.youtube.com/watch?v=rTbKslUxKVU)
@@ -28,11 +30,9 @@ The following major Alpha milestones were completed on August 24, 2023:
 
 * Real-time (240 FPS at 1080p on a GTX 1070m test laptop) rendering of 10,000 high poly animating models (40K vertices each)
 * 10Gbps worst-case upload bandwidth for unsharded real-time network updates of all 10,000 players sent to each player
-* Real-time physics for all 10,000 models
+* Real-time physics for all 10,000 models (this is related to the network architecture such that entities no longer interpolate through walls/floors/terrain like in PlanetSide 2)
 
 Not only does completing these milestones guarantee that whatever happens to PlanetSide 2 it can be recreated as-is given a community effort to import 3D assets and animations, completing them also guarantees orders of magnitude faster rendering, physics, and server performance.
-
-This repository was made private following completion of major Alpha milestones to protect Alpha release and is planned to be made fully open source again on Beta. Weekly builds under https://github.com/PlanetSideGoblinMod/GoblinModeDemo/tags were removed.
 
 #### Alpha Release: Goblin Mode
 
@@ -42,10 +42,10 @@ Alpha Release is planned to test the worst-case game mode called Goblin Mode, wh
 
 #### Acknowledgements and Dedication
 
-This project is dedicated to Goblin Tribe including GOB competitive and ex-members, ALL of the PlanetSide staff--no exception--who made this scale of MMOFPS possible (especially Don Neufeld), and all of our friends in the PlanetSide 2 community especially Recursion, FEFA, Saka, PREY, DPSO, CIK, TIDE, H00D, ZYZZ, MADE, RALI, and many others. This project is also especially dedicated to FrogMike, Therum, Beefy, and [Zagszy](https://www.youtube.com/watch?v=3b3u3ibY9XY).
+This project is dedicated to Goblin Tribe including GOB competitive and ex-members, ALL of the PlanetSide staff--no exception--who made this scale of MMOFPS possible (especially Don Neufeld), and all of our friends in the PlanetSide 2 community especially Recursion, FEFA, Saka, PREY, DPSO, CIK, MERC, TIDE, H00D, ZYZZ, MADE, RALI, BRAC, YLBT, FUOC, and many others. This project is also especially dedicated to FrogMike, Therum, Luffy, and [Zagszy](https://www.youtube.com/watch?v=3b3u3ibY9XY).
 
-This project would not have begun if SadRobot didn't oblige in participating in our "How Would a Pea-Brained Goblin Program PlanetSide 3?" seemingly-schizophrenic brainstorming sessions to come up with an "unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations" worst-case solution. Special thanks to Khorror's cracked 3D modeling skills. Much gratitude for Riesz, Encoder, and FatherTime for voices. Thanks to everyone who encouraged, supported, advised, tested, and critically examined the project: TJ, Blaxxen, Sobek, Khorror, SadRobot, Riesz, Encoder, LostArrow (Marauder), Atlia, PotatoBoiler, Chicken, Bazuki, NP_Eazy, BerkleianMegatrends, Spjalle, and GoblinRum. Infinite thanks to Goblin Tribe, especially FrogMike and Sobek, all the genius Goblin leadership, for letting the world witness one of the greatest underdog stories in history. Thanks to the Berkeley EECS community of cracked engineers for technical consultations, moral encouragement, and for offering the CSUA Minifridge for server hosting (lol).
+This project would not have begun if SadRobot didn't oblige in participating in our seemingly-schizophrenic "How Would a Pea-Brained Goblin Program PlanetSide 3?" brainstorming sessions to come up with an "unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations" worst-case solution. Special thanks to Khorror's cracked 3D modeling skills. Much gratitude for Riesz, Encoder, and FatherTime for voices. Thanks to everyone who encouraged, supported, advised, tested, and critically examined the project: TJ, Blaxxen, Sobek, Khorror, SadRobot, Riesz, Encoder, LostArrow (Marauder), Atlia, PotatoBoiler, Chicken, Bazuki, NP_Eazy, BerkleianMegatrends, Spjalle, and GoblinRum. Infinite thanks to Goblin Tribe, especially FrogMike and Sobek, all the genius Goblin leadership, for letting the world witness one of the greatest underdog stories in history. Thanks to the Berkeley EECS circle of cracked engineers for technical consultations, moral encouragement, and for offering the CSUA Minifridge for server hosting (lol).
 
-This project is dedicated to the scarcest resource in a game of thousands with no direction: Leadership. Leadership provides the Guided User Experience that PlanetSide 2 should have had in the beginning, that all properly designed games should have as its primary concern. If PlanetSide 2 has anything to learn from its 12 years of gameplay data, it is the various styles of leadership that evolved over the years as nobody has ever played an MMOFPS at this scale before.
+This project is dedicated to the scarcest resource in a game of thousands with no direction: Leadership. Leadership provides the Guided User Experience that PlanetSide 2 should have had in the beginning, that all properly designed games should have as its primary concern. If PlanetSide 2 has anything to learn from its 12 years of gameplay data, it is the various styles of leadership that evolved over the years as nobody before this game has ever played an MMOFPS at this scale.
 
 Thanks for the patience rly sry about the delays lmao also fuku Calskey
