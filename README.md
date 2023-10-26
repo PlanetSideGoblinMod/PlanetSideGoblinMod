@@ -52,7 +52,7 @@ Thanks for the patience rly sry about the delays lmao also fuku Calskey
 
 #### How to Help
 
-We whole-heartedly welcome anyone interested in any aspect of game development, from UX design (which is the most important) to art and literature and architecture to 3D engine and network programming. We need 10,000 testers lmfao
+We whole-heartedly welcome anyone interested in any aspect of game development, from UX design (which is the most important) to 3D modeling and art and literature and architecture to 3D engine and network programming. We need 10,000 testers lmfao
 
 All of GOBs are automatic ~~unpaid~~ interns. Anyone with the word `goblin` in their character names is forced to intern.
 
