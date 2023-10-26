@@ -49,11 +49,3 @@ This project would not have begun if SadRobot didn't oblige in participating in 
 This project is dedicated to the scarcest resource in a game of thousands with no direction: Leadership. Leadership provides the Guided User Experience that PlanetSide 2 should have had in the beginning, that all properly designed games should have as its primary concern. If PlanetSide 2 has anything to learn from its 12 years of gameplay data, it is the various styles of leadership that evolved over the years as nobody before this game has ever played an MMOFPS at this scale.
 
 Thanks for the patience rly sry about the delays lmao also fuku Calskey
-
-#### How to Help
-
-We whole-heartedly welcome anyone interested in any aspect of game development, from UX design (which is the most important) to 3D modeling and art and literature and architecture to 3D engine and network programming. We need 10,000 testers lmfao
-
-All of GOBs are automatic ~~unpaid~~ interns. Anyone with the word `goblin` in their character names is forced to intern.
-
-If you know of cheap unmetered dedicated hosting, please ping `goblinfang` on discord. We are also accepting sponsorship. Contact us if you represent Rogue Planet Games, Enad Global 7, or Amazon Games, and are serious about the future of PlanetSide 2 or MMOFPS in general.
