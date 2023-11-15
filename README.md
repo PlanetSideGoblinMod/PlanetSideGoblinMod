@@ -4,6 +4,8 @@
 
 #### News
 
+November 15, 2023: Stewie, a most-beloved and legendary goblin, passed away on November 4th. He was a comforting constant in the community and a well of classic wisecracks that land in their delivery. He lived with his family in Dhahran Camp as a systems analyst for Saudi Aramco, programming mainframe computers in Fortran. Thank you for letting us be part of your legacy. Let this project be guided by your bold and beautiful spirit, Stewie.
+
 October 24, 2023: Alpha release delayed as we experiment on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 6 million Stanford dragons. Mind-blowing stuff. The original rasterization prototype is still on schedule for testing, will ping participants.
 
 August 24, 2023: Major Alpha milestones completed! This repository is made private following completion of major Alpha milestones to protect Alpha release and is planned to be made fully open source again on Beta. Weekly builds under https://github.com/PlanetSideGoblinMod/GoblinModeDemo/tags are removed.
@@ -41,6 +43,8 @@ Major Alpha milestones do not include a fun, playable game. The remaining tasks 
 Alpha Release is planned to test the worst-case game mode called Goblin Mode, which is the minimum "playable" physics for 10,000 unsharded concurrent players with a maximum 10Gbps server upload bandwidth. Goblin Mode as a default game mode is meant to attract and keep the highest amount of players possible. Since Goblin Tribe is a competitive gaming clan, there will be an alternate, competitive game mode with options for CS2-style "subticks" among other detailed customizations.
 
 #### Acknowledgements and Dedication
+
+Thank you Stewie for sharing your last years with us.
 
 This project is dedicated to Goblin Tribe including GOB competitive and ex-members, ALL of the PlanetSide staff--no exception--who made this scale of MMOFPS possible (especially Don Neufeld), and all of our friends in the PlanetSide 2 community especially Recursion, FEFA, Saka, PREY, DPSO, CIK, MERC, TIDE, H00D, ZYZZ, MADE, RALI, BRAC, YLBT, FUOC, and many others. This project is also especially dedicated to FrogMike, Therum, Luffy, and [Zagszy](https://www.youtube.com/watch?v=3b3u3ibY9XY).
 
