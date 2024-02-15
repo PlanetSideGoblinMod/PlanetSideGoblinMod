@@ -4,7 +4,7 @@
 
 #### News
 
-November 15, 2023: Stewie, a most-beloved and legendary goblin, passed away on November 2nd. He was a comforting constant in the community and a well of classic wisecracks that land in their delivery. He lived with his family in Dhahran Camp as a systems analyst for Saudi Aramco, programming mainframe computers in Fortran. Thank you for letting us be part of your legacy. Let this project be guided by your bold and beautiful spirit, Stewie.
+Febuary 15, 2024: Tests to resume in March. Experiment with faster but much more CPU-intensive solution (100% CPU).
 
 October 24, 2023: Alpha release delayed as we experiment on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 6 million Stanford dragons. Mind-blowing stuff. The original rasterization prototype is still on schedule for testing, will ping participants.
 
