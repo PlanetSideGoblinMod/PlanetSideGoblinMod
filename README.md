@@ -4,9 +4,7 @@
 
 #### News
 
-Febuary 15, 2024: Tests to resume in March. Experiment with faster but much more CPU-intensive solution (100% CPU).
-
-October 24, 2023: Alpha release delayed as we experiment on porting the G.O.B. (acronym remains a secret) engine to a pure, real-time path-tracing engine. Currently it is using a traditional Z-buffer rasterization. Preliminary results of real-time ray tracing shows faster performance than rasterization at the scale of rendering 6 million Stanford dragons. Mind-blowing stuff. The original rasterization prototype is still on schedule for testing, will ping participants.
+Febuary 15, 2024: Tests to resume in Mid-March/April. Experiment with faster but much more CPU-intensive solution (100% CPU).
 
 August 24, 2023: Major Alpha milestones completed! This repository is made private following completion of major Alpha milestones to protect Alpha release and is planned to be made fully open source again on Beta. Weekly builds under https://github.com/PlanetSideGoblinMod/GoblinModeDemo/tags are removed.
 
